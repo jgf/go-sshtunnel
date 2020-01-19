@@ -8,8 +8,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/dueckminor/go-sshtunnel/iptables"
-	"github.com/dueckminor/go-sshtunnel/sshforward"
+	"github.com/jgf/go-sshtunnel/iptables"
+	"github.com/jgf/go-sshtunnel/sshforward"
 )
 
 type SSHTunnel struct {
